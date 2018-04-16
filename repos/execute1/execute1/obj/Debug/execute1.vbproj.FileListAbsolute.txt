@@ -1,0 +1,11 @@
+C:\Users\JoseOrtega\source\repos\execute1\execute1\bin\Debug\execute1.exe.config
+C:\Users\JoseOrtega\source\repos\execute1\execute1\bin\Debug\execute1.exe
+C:\Users\JoseOrtega\source\repos\execute1\execute1\bin\Debug\execute1.pdb
+C:\Users\JoseOrtega\source\repos\execute1\execute1\bin\Debug\execute1.xml
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.Resources.resources
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.vbproj.GenerateResource.Cache
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.vbproj.CoreCompileInputs.cache
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.exe
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.xml
+C:\Users\JoseOrtega\source\repos\execute1\execute1\obj\Debug\execute1.pdb

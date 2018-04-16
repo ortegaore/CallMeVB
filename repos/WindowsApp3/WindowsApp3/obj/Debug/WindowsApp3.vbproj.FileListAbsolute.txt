@@ -1,0 +1,6 @@
+C:\Users\JoseOrtega\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOrtega\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.frmConexiones.resources
+C:\Users\JoseOrtega\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Resources.resources
+C:\Users\JoseOrtega\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.GenerateResource.Cache
+C:\Users\JoseOrtega\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.vbproj.CoreCompileInputs.cache
+C:\Users\JoseOrtega\source\repos\WindowsApp3\WindowsApp3\obj\Debug\WindowsApp3.Form1.resources

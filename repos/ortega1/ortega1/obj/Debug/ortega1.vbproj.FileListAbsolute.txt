@@ -1,0 +1,5 @@
+C:\Users\JoseOrtega\source\repos\ortega1\ortega1\obj\Debug\ortega1.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOrtega\source\repos\ortega1\ortega1\obj\Debug\ortega1.Form1.resources
+C:\Users\JoseOrtega\source\repos\ortega1\ortega1\obj\Debug\ortega1.Resources.resources
+C:\Users\JoseOrtega\source\repos\ortega1\ortega1\obj\Debug\ortega1.vbproj.GenerateResource.Cache
+C:\Users\JoseOrtega\source\repos\ortega1\ortega1\obj\Debug\ortega1.vbproj.CoreCompileInputs.cache

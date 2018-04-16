@@ -1,0 +1,13 @@
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.Form1.resources
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.Resources.resources
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.vbproj.GenerateResource.Cache
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.vbproj.CoreCompileInputs.cache
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\bin\Debug\CallMeVB.exe.config
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\bin\Debug\CallMeVB.exe
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\bin\Debug\CallMeVB.pdb
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\bin\Debug\CallMeVB.xml
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\bin\Debug\System.Management.Automation.dll
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.exe
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.xml
+C:\Users\JoseOrtega\source\repos\CallMeVB\CallMeVB\obj\Debug\CallMeVB.pdb

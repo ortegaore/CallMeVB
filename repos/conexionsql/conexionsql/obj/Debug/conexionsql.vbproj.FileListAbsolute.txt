@@ -1,0 +1,12 @@
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\bin\Debug\conexionsql.exe.config
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\bin\Debug\conexionsql.exe
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\bin\Debug\conexionsql.pdb
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\bin\Debug\conexionsql.xml
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.vbprojResolveAssemblyReference.cache
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.Resources.resources
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.vbproj.GenerateResource.Cache
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.vbproj.CoreCompileInputs.cache
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.exe
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.xml
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.pdb
+C:\Users\JoseOrtega\source\repos\conexionsql\conexionsql\obj\Debug\conexionsql.Form1.resources
